@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keerthana M - Curriculum Vitae</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #000;
+            background-color: #fff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #6a5acd;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #6a5acd;
+        }
+        a {
+            color: #6a5acd;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Curriculum Vitae</h1>
+    </header>
+    <div class="container">
+        <section id="personal-details">
+            <h2>Personal Details</h2>
+            <p><strong>Name:</strong> Keerthana M (4th year, Integrated BS-MS)</p>
+            <p><strong>Date of Birth:</strong> December 3, 2001</p>
+            <p><strong>Address:</strong> Udayagiri, Kallayam, Trivandrum, Kerala, India</p>
+            <p><strong>Contact:</strong> <a href="tel:+918590034799">+91-8590034799</a></p>
+            <p><strong>Email:</strong> <a href="mailto:keerthana6174@gmail.com">keerthana6174@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/keerthana-m-398449206">Keerthana M</a></p>
+            <p><strong>Twitter:</strong> <a href="https://twitter.com/keerthana6174">@keerthana6174</a></p>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>2020-2025: Integrated BSMS, Indian Institute of Science Education and Research Mohali, Ongoing</li>
+                <li>2017-2019: 11th-12th, Chavara Public School, Pala, Kerala, 9.5 CPI</li>
+                <li>2011-2017: 5th-10th, Toch Public School, Kochi, Kerala, 10 CPI</li>
+            </ul>
+        </section>
+
+        <section id="research-interests">
+            <h2>Research Interests</h2>
+            <p>Biology, Neurobiology</p>
+        </section>
+
+        <!-- More sections can be added for research experience, skills, international achievements, scholastic awards, etc. -->
+
+        <!-- Ensure to close the container and body tags -->
+    </div>
+</body>
+</html>
